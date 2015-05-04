@@ -37,7 +37,6 @@ build-stamp:
 
 	GYP_GENERATOR_FLAGS="output_dir=build-desktop" ./xwalk/gyp_xwalk xwalk/xwalk.gyp \
                 --depth=. 
-
 	$(NINJA) -C build-desktop/Release xwalk
 	./tools/licenses.py credits > build-desktop/Release/copyright
 
