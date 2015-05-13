@@ -2,7 +2,7 @@
   "name": "crosswalk-package-tool",
   "version": "0.0.1",
   "description": "Build Crosswalk runtime deb package",
-  "author": "Xinchao He <xinchao.he@intel.com>",
+  "author": "Xiang Long <xiang.long@intel.com>",
   "license": "APACHE-V2",
   "main": "index.js",
   "bin": {

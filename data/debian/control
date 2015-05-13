@@ -1,7 +1,7 @@
 Source: crosswalk
 Section: web
 Priority: optional
-Maintainer: Xinchao He <xinchao.he@intel.com>
+Maintainer: Xiang Long <xiang.long@intel.com>
 Standards-Version: 3.9.6
 Homepage: https://crosswalk-project.org/
 Build-Depends:
